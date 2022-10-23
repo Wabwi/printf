@@ -31,5 +31,12 @@ int print_c(va_list c);
 int print_s(va_list s);
 int print_i(va_list i);
 int print_d(va_list d);
+int print_add(va_list add);
+
+int print_less(va_list less);
+
+int print_space(va_list space);
+
+int print_sharp(va_list sharp);
 
 #endif
